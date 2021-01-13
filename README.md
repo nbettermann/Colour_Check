@@ -12,4 +12,4 @@
 ![](Teil_Probleme.png)
 
 ## Input:
-### Akzeptierter Input für die Funktion: array = [[colour, number], ... ]
+### Akzeptierter Input für die Funktion: array = [[colour, number], …]

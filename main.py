@@ -5,7 +5,7 @@ def get_list(liste):  # Schritt 1
 def count_elements(liste):
     counter = 0
     for i in range(0, len(liste)):  # Schritt 3
-        if liste[i][0] == "b": counter += 1  # Schritt 2
+        if liste[i][0] == "b": counter += 1  # Schritt 2 + Schritt 3
     return counter
 
 
@@ -13,3 +13,4 @@ def check_colour(liste):
     return count_elements(get_list(liste))
 
 # Listenformat ist: list = [[colour, number],]
+# colour ist entweder "b" black oder "r" red

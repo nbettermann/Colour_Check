@@ -11,4 +11,5 @@
 ## Visualisierung
 ![](Teil_Probleme.png)
 
-## Akzeptierter Input für die Funktion: array = [[colour, number],]
+## Input:
+### Akzeptierter Input für die Funktion: array = [[colour, number], …]

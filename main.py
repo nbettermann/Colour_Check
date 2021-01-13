@@ -10,7 +10,10 @@ def count_elements(liste):
 
 
 def check_colour(liste):
-    return count_elements(get_list(liste))
+    tmp0 = get_list(liste)
+    tmp1 = count_elements(tmp0)
+    if tmp1 > tmp0-tmp1: return "Es sind mehr schwarze Karten"
+    else: return "Es sind mehr rote Karten"
 
 # Listenformat ist: list = [[colour, number],]
 # colour ist entweder "b" black oder "r" red

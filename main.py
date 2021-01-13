@@ -1,10 +1,15 @@
 def get_list(liste):
-    return list[0:len(liste)/2]
+    return liste[0:round(len(liste) / 2)]
+
 
 def count_elements(liste):
+    counter = 0
+    for i in range(0, len(liste)):
+        if liste[i][0] == "b": counter += 1
+    return counter
 
 
+def check_colour(liste):
+    return count_elements(get_list(liste))
 
-
-if __name__ == "__main__":
-    test_arr = [[]]
+# Listenformat ist: list = [[colour, number],]

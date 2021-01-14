@@ -9,7 +9,7 @@ def count_elements(liste):
     return counter
 
 
-def check_colour(liste):
+def colour_check(liste):
     tmp0 = get_list(liste)
     tmp1 = count_elements(tmp0)
     if tmp1 > tmp0-tmp1: return "Es sind mehr schwarze Karten"

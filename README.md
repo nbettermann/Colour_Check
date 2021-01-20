@@ -1,10 +1,10 @@
 # **Vergleich der Anzahl der roten und schwarzen Karten (Funkion: colour_check)**
 ## Funktion:
-### Es soll ermittelt werden, ob sich in der ersten Hälfte des Kartendecks mehr rote als schwarze Karten befinden.
+###  - Es soll ermittelt werden, ob sich in der ersten Hälfte des Kartendecks mehr rote als schwarze Karten befinden.
 
 ## Anforderungen:
-### Es befinden sich im Kartendeck 32 Karten.
-### Eine Karte kann entweder rot oder schwarz sein.
+### - Es befinden sich im Kartendeck 32 Karten.
+### - Eine Karte kann entweder rot oder schwarz sein.
 
 ### Visualisierung:
 ![](Visualisierung.png)
@@ -17,5 +17,5 @@
 ![](Teil_Probleme.png)
 
 ## Input:
-### Akzeptierter Input für die Funktion: array = [[colour, number], …]
-### colour ist entweder "b" black oder "r" red
+### - Akzeptierter Input für die Funktion: array = [[colour, number], …]
+### - colour ist entweder "b" black oder "r" red

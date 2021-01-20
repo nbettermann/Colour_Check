@@ -1,10 +1,10 @@
 # **Vergleich der Anzahl der roten und schwarzen Karten (Funkion: colour_check)**
 
-## Visualisierung
-![](Visualisierung.png)
-
 ## Anforderung:
 ### Es soll ermittelt werden, ob sich in der ersten Hälfte des Kartendecks mehr rote als schwarze Karten befinden.
+
+## Visualisierung
+![](Visualisierung.png)
 
 ## Teilprobleme:
 ### 1. Ausgabe der ersten Hälfte des Kartendecks (Funktion: get_list)

@@ -3,10 +3,10 @@
 ###  - Es soll ermittelt werden, ob sich in der ersten Hälfte des Kartendecks mehr rote als schwarze Karten befinden.
 
 ## Anforderungen:
-### - Es befinden sich im Kartendeck 32 Karten.
-### - Eine Karte kann entweder rot oder schwarz sein.
+### - Es befinden sich eine beliebige Anzahl von Karten im Kartendeck.
+### - Die Farbe einer Karte kann entweder rot oder schwarz sein.
 
-### Visualisierung:
+## Visualisierung:
 ![](Visualisierung.png)
 
 ## Teilprobleme:

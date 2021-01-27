@@ -1,9 +1,9 @@
 # **Vergleich der Anzahl der roten und schwarzen Karten (Funkion: colour_check)**
 Index
 ----------------
-- [Funktion](##Funktion)
-- [Anforderungen](##Anforderungen)
-- [Input](##Input)
+- [Funktion](#funktion)
+- [Anforderungen](#anforderungen)
+- [Input](#input)
 ## Funktion:
 - Es soll ermittelt werden, ob sich in der ersten Hälfte des Kartendecks mehr rote als schwarze Karten befinden.
 - Wenn die Anzahl der Karten ungerade ist, wird bei der Halbierung aufgerundet.

@@ -17,6 +17,9 @@
 ### 4. Die schwarzen mit den roten Karten vergleichen (Funktion: count_elements)
 ![](Teil_Probleme.png)
 
+## Struktogramm:
+![](colour_check.png)
+
 ## Input:
 ### - Akzeptierter Input für die Funktion: array = [[colour, number], …]
 ### - colour ist entweder "b" black oder "r" red
